@@ -19,8 +19,8 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Dinesh, and I'm based in Pune, India. I studied at SPU
-              University Pune, where I completed my BE in Electronics &
+              Hello! I'm Dinesh, and I'm based in Pune, India. I studied at SPPU
+              University Pune, where I completed my B.E. in Electronics &
               Telecommunication.
               <br />
               <br />

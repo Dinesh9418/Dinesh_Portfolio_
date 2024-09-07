@@ -19,7 +19,7 @@ const HeaderSocials = () => {
       >
         <FaGithub />
       </a>
-
+{/* 
       <a
         href="https://hashnode.com/@gregsithole"
         className="home__social-link"
@@ -27,16 +27,16 @@ const HeaderSocials = () => {
         rel="noreferrer"
       >
         <SiHashnode />
-      </a>
+      </a> */}
 
-      <a
+      {/* <a
         href="https://dev.to/gregsithole"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
       >
         <FaDev />
-      </a>
+      </a> */}
 
       <a
         href="https://www.linkedin.com/in/dinesh-jadhav-662a74186/"
