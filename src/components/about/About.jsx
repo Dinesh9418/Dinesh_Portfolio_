@@ -39,7 +39,8 @@ const About = () => {
               <li>React</li>
               <li>Mysql</li>
               <li>SQL</li>
-              <li>Node.js</li>
+              <li>BootStrap</li>
+              <li>Tailwind CSS</li>
               <li>Git</li>
             </ul>
             <button className="btn" onClick={downloadResume}>
