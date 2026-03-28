@@ -42,14 +42,22 @@ const Sidebar = (props) => {
               </li>
 
               <li className="nav__item">
-                <a href="#services" className="nav__link">
-                  <RiFileList3Line />
+                <a href="#experience" className="nav__link">
+                  <RiDraftLine />
                 </a>
               </li>
+
+
 
               <li className="nav__item">
                 <a href="#resume" className="nav__link">
                   <RiBriefcase2Line />
+                </a>
+              </li>
+
+              <li className="nav__item">
+                <a href="#services" className="nav__link">
+                  <RiFileList3Line />
                 </a>
               </li>
 
@@ -59,11 +67,7 @@ const Sidebar = (props) => {
                 </a>
               </li> */}
 
-              {/* <li className="nav__item">
-                <a href="#blog" className="nav__link">
-                  <RiDraftLine />
-                </a>
-              </li> */}
+
 
               <li className="nav__item">
                 <a href="#contact" className="nav__link">

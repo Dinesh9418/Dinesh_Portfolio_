@@ -10,6 +10,7 @@ import Resume from "./components/resume/Resume";
 // import Blog from './components/blog/Blog';
 import Contact from "./components/contact/Contact";
 import useLocalStorage from "use-local-storage";
+import ProjectIndex from "./components/projects/ProjectIndex";
 
 function App() {
   const defaultDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
@@ -29,8 +30,9 @@ function App() {
       <main className="main">
         <Home />
         <About />
-        <Services />
+        <ProjectIndex />
         <Resume />
+        <Services />
         <Contact theme={theme} />
         {/* <Testimonials />
             <Blog />

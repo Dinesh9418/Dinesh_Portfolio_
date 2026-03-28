@@ -22,7 +22,7 @@ const WorkExperience = [
   },
   {
     id: 3,
-    title: "Web Developer",
+    title: "Web Developer Intern",
     company: "Scrobits Technologies",
     yearsActive: "December 2021 - June 2022",
     information: [

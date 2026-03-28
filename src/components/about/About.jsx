@@ -22,7 +22,7 @@ const About = () => {
               Hello! I'm Dinesh, and I'm based in Pune, India. I studied at SPPU
               University Pune, where I completed my B.E. in Electronics &
               Telecommunication.
-              <br />
+              
               <br />
               Fast forward to today, and I can honestly say it's been a
               beautiful journey and I hope to grow even further as Software
