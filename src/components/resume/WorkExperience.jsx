@@ -1,9 +1,20 @@
 const WorkExperience = [
+
+  {
+    id: 1,
+    title: "Software Engineer - Technical consultant",
+    company: "LTM",
+    yearsActive: "March 2026 - Present",
+    information: [
+      "Write modern, performant, maintainable code for a diverse array of internal projects",
+      "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
+    ],
+  },
   {
     id: 1,
     title: "Software Engineer",
     company: "LTIMindtree",
-    yearsActive: "November 2022 - Present",
+    yearsActive: "November 2022 - March 2026",
     information: [
       "Write modern, performant, maintainable code for a diverse array of internal projects",
       "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
