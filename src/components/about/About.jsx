@@ -1,10 +1,11 @@
 import React from "react";
 import "./About.css";
 import Image from "../../assets/avatar-2.svg";
-import Resume from "../../assets/Resume.pdf";
+// import Resume from "../../assets/Resume.pdf";
 import AboutBox from "./AboutBox";
 
 const About = () => {
+  const Resume = 'https://drive.google.com/file/d/1NWuBE7A0TFp5VhlM9-oUy6wlt6fTVzIZ/view?usp=drive_link'
   const downloadResume = async () => {
     window.open(Resume, "_blank");
   };
