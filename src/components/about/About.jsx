@@ -42,6 +42,7 @@ const About = () => {
               <li>BootStrap</li>
               <li>Tailwind CSS</li>
               <li>Git</li>
+              <li>Firebase</li>
             </ul>
             <button className="btn" onClick={downloadResume}>
               Download CV
